@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <title>structure of html document</title>
+</head>
+
+<body>
+    <h1 style ="color:red;text-align:left;font-size:50;background-color: yellow;">pommi</h1>
+    <h2>pommi</h2>
+    <h3>pommi</h3>
+    <h4>pommi</h4>
+    <h5>pommi</h5>
+    <h6>pommi</h6>
+    <p>Lorem <span style="colour:rgb(101, 48, 48);">ipsum, dolor sit</span> amet consectetur badipisicing elit. Quas, aspernatur?</p>
+    <img src="image/Screenshot 2023-12-03 203243.png">
+    
+   
+    <h2>Technologies</h2>
+    <ul type="none">
+        <li>HTML</li>
+        <li>css</li>
+        <li>java</li>
+    </ul>
+    <h2 style="font-size:30">orderd list</h5>
+    <ol reversed type="none">
+        <li>POMMI</li>
+        <li>pommi</li>
+    </ol>
